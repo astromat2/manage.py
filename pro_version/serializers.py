@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from pro_fersion.models import *
+from pro_version.models import *
 
 
 class ProUserSerializers(serializers.ModelSerializer):
